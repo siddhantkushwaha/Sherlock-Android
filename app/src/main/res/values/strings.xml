@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sherlock</string>
+
+    <string name="signup">Don\'t have an account?</string>
+    <string name="login">Already have an account.</string>
+
+    <string name="drawer_open">Opens the drawer</string>
+    <string name="drawer_close">Closes the drawer</string>
+
+    <string name="google_maps_key">AIzaSyB00w8TBmUH7EbULVTNkBWVpWRzlHePQlo</string>
+</resources>
